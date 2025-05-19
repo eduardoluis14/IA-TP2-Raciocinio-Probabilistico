@@ -11,5 +11,6 @@ str(snow_covered).
 
 evidence(str(snow_covered)).
 
-query(v(t)).
 query(v(f)).
+query(v(t)).
+
